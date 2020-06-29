@@ -28,23 +28,23 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+# social_media:
   # behance: your_username
-   dribbble: mikeeowino
-   facebook: mikeeowino
-   hackerrank: mike_owino40
-   instagram: mikeeowino
+  # dribbble: mikeeowino
+  # facebook: mikeeowino
+  # hackerrank: mike_owino40
+  # instagram: mikeeowino
   # keybase: your_username
-   linkedin: mikeeowino
+  # linkedin: mikeeowino
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-   telegram: decipha
-   twitter: mikeeowino
-   unsplash: mikeeowino
+  # telegram: decipha
+  # twitter: mikeeowino
+  # unsplash: mikeeowino
   # vk: your_username
-   website: http://mikeowino.github.io
-   youtube: UCAVdWkcl7j6sn8_OIe5btKw
+  # website: http://mikeowino.github.io
+  # youtube: UCAVdWkcl7j6sn8_OIe5btKw
 
 topics:
   - name: CSS
